@@ -47,7 +47,7 @@
             <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/3Xl4jQzuB9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>djhgdhscd</iframe>
             <div class="countdown">
                 <div class="days-left" >Conference Begins</div>
-                <div class="days-left" >20 August 2023</div>
+                <div class="days-left" >19 August 2023</div>
                 <div class="count">
                     <div class="section">
                         <span class="time" id="days"></span>
@@ -131,7 +131,7 @@
                     <div class="team-text">
                         <h3><a href="#">Mr. Chris Davis</a></h3>
                     <p>Software Engineer</p>
-                    <p>Topic: Information Technology</p>
+                    <p>Topic: Edge and Quantum Computing </p>
                     </div>
 
                 </div>
@@ -141,7 +141,7 @@
                     <div class="team-text">
                         <h3><a href="#">Mrs. Helen Amanda</a></h3>
                     <p>Data Analyst</p>
-                    <p>Topic: Software Engineering</p>
+                    <p>Topic: Blockchain and Cryptocurrencies</p>
                     </div>
 
                 </div>
@@ -151,7 +151,7 @@
                     <div class="team-text">
                         <h3><a href="#">Mr.Eze Paul</a></h3>
                     <p>Software Engineering</p>
-                    <p>Topic: Software Engineering</p>
+                    <p>Topic: Augmented and Virtual Reality</p>
                     </div>
 
                 </div>
@@ -222,7 +222,7 @@
 
                     <div class="team-text">
                         <h3><a href="#">Moses Victoria .I.</a></h3>
-                    <p>Software Engineering</p>
+                    <p>Computer Science</p>
                     </div>
 
                 </div>
@@ -264,8 +264,8 @@
                 <div class="blog-post" data-aos="flip-left" data-aos-delay="900">
                     <img class="team-img" src="https://th.bing.com/th/id/OIP.shsc3LnjtfZF4kZbc1_ojwHaHa?w=166&h=180&c=7&r=0&o=5&pid=1.7" alt="">
                     <div class="team-text">
-                        <h3><a href="#">Echezolam Favour</a></h3>
-                    <p>Information Technology</p>
+                        <h3><a href="#">Achulike Chidera</a></h3>
+                    <p>Computer Science</p>
                     </div>
 
                 </div>
@@ -273,8 +273,8 @@
                     <div class="team-img-box"><img class="team-img" src="https://th.bing.com/th/id/OIP.lNOYtQPcMv7xEC_SCHmRogHaHa?w=176&h=180&c=7&r=0&o=5&pid=1.7" alt=""></div>
 
                     <div class="team-text">
-                        <h3><a href="#">Obodoagwu Victory</a></h3>
-                    <p>Software Engineering</p>
+                        <h3><a href="#">Agbo Chiemelie</a></h3>
+                    <p>Computer Science</p>
                     </div>
 
                 </div>
@@ -282,8 +282,8 @@
                     <div class="team-img-box"><img class="team-img" src="https://th.bing.com/th/id/OIP.shsc3LnjtfZF4kZbc1_ojwHaHa?w=166&h=180&c=7&r=0&o=5&pid=1.7" alt=""></div>
 
                     <div class="team-text">
-                        <h3><a href="#">Obodoagwu Victory</a></h3>
-                    <p>Software Engineering</p>
+                        <h3><a href="#"></a></h3>
+                    <p></p>
                     </div>
 
                 </div>
