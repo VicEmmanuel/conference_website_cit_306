@@ -127,9 +127,9 @@
             </div>
             <div class="grid three-col-grid">
                 <div class="blog-post" data-aos="fade-up" data-aos-delay="600">
-                    <img class="team-img" src="./assets/images/2nd Man.jpg" alt="">
+                    <img class="team-img" src="./assets/images/dr.jpeg" alt="">
                     <div class="team-text">
-                        <h3><a href="#">Mr. Chris Davis</a></h3>
+                        <h3><a href="#">Engr. Dr. Emmanuel C. Amadi</a></h3>
                     <p>Software Engineer</p>
                     <p>Topic: Edge and Quantum Computing </p>
                     </div>
@@ -150,7 +150,7 @@
 
                     <div class="team-text">
                         <h3><a href="#">Mr.Eze Paul</a></h3>
-                    <p>Software Engineering</p>
+                    <p>Software Engineer</p>
                     <p>Topic: Augmented and Virtual Reality</p>
                     </div>
 
